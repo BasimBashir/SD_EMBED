@@ -8,7 +8,7 @@ setup(
     , author_email     = 'basim.bashir0968@gmail.com'
     , packages         = find_packages('src')
     , package_dir      = {'': 'src'}
-    , url              = 'https://github.com/xhinker/sd_embed'
+    , url              = 'https://github.com/BasimBashir/sd_embed'
     , keywords         = 'diffusers stable-diffusion embedding'
     , install_requires = [
         'optimum-quanto'
