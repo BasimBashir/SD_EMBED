@@ -51,7 +51,7 @@ See more detail at [torchao](https://github.com/pytorch/ao)
 
 Install `sd_embed`:
 ```sh
-pip install git+https://github.com/xhinker/sd_embed.git@main
+pip install git+https://github.com/BasimBashir/sd_embed.git@main
 ```
 
 
